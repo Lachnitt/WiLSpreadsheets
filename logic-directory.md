@@ -88,6 +88,7 @@ Kesner | Delia | Université Paris Cité  | Full Professor  | www.irif.fr/~kesne
 Kiefer | Sandra | University of Oxford | Junior Research Fellow | https://www.cs.ox.ac.uk/people/sandra.kiefer/ | Mathematical Logic, Descriptive Complexity, Algorithmic and Structural Graph Theory, Algebraic Topology
 Knight | Sophia | Uppsala University | Postdoc | http://www.lix.polytechnique.fr/~sophia/ | Epistemic logic & concurrency
 Kouri Kissel | Teresa | Old Dominion University (USA) | Assistant Professor | https://sites.google.com/site/teresakouri/home | Philosophy of Logic, Philosophy of Language, logical pluralism, mathematical structuralism
+Lachnitt | Hanna | Stanford University | PhD Student | https://profiles.stanford.edu/hanna-lachnitt | Proof Assistants, SMT, Formal Methods, Formalization of Mathematics
 Lange | Karen | Wellesley College (USA) | Associate Professor | https://www.wellesley.edu/math/faculty/karen_lange | Computability Theory
 Lapenta | Serafina (Sara) | University of Salerno | Researcher | https://serafinalapenta.weebly.com/ | Algebraic aspects of many-valued logic, Logic and probability
 Latour | Anna | National University of Singapore | Research Fellow | latower.github.io | Boolean Satisfiability, Propositional Model Counting, MaxSAT, Stochastic SAT
